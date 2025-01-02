@@ -11,7 +11,7 @@ The **DSA Master course** by **Sahil Gaba** is renowned for its clear explanatio
 If you're preparing for technical interviews or aiming to sharpen your DSA skills, this course is an excellent choice.
 
 ### Link to the Course:
-[DSA Master by Sahil Gaba](https://example.com) *(Replace with the actual course link if available)*
+[DSA Master by Sahil Gaba](https://instabyte.io/p/dsa-master)
 
 ---
 
