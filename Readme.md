@@ -24,15 +24,18 @@ This repository is organized into sections based on topics and programming langu
 - [Arrays in Python](./Arrays-python.md)
 - [Arrays in JavaScript](./Arrays-javascript.md)
 
+#### 2. LinkedLists - The Ultimate DSA Guide Notes
+- [Linkedlists in Python](./Linkedlists-python.md)
+- [Linkedlists in Javascript](./Linkedlists-javascript.md)
+
 Each guide contains:
-- Fundamental concepts of arrays.
+- Fundamental concepts of the datastructure.
 - Step-by-step explanations of algorithms.
 - Code examples in the respective language.
 - Links to relevant LeetCode problems for practice.
 
 #### Future Sections (Planned):
 - Strings
-- Linked Lists
 - Trees
 - Graphs
 - Dynamic Programming
